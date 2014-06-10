@@ -10,7 +10,7 @@ Preferential Attachment (PA)
 Adamic/Adar (AA)
 Common Neighbors (CN)
 Resource Allocation Index (RA)
-Jaccard?s Coef?cient (JC), 
+Jaccard's Coefficient (JC), 
 PropFlow 
 Inverse Path Distance
 PageRank
