@@ -6,6 +6,7 @@ This zip file contains the codes (written in Matlab format) of 8 unsupervised li
 
 **************************************************************************************************
 The unsupervised link predictors include:
+
 Preferential Attachment (PA)
 Adamic/Adar (AA)
 Common Neighbors (CN)
