@@ -33,7 +33,7 @@ Please cite our corresponding papers if you use this material in any form in you
 ```
 OR the following accepted paper.
 ```
-@incollections{Sukthankar-Xi-ASONAM2013,
+@incollections{Sukthankar-Xi-LNSN2014,
 	author = {Wang, Xi and Sukthankar, Gita},
 	title = {Link Prediction in Heterogeneous Collaboration Networks},
   	booktitle = {Lecture Notes in Social Networks},
